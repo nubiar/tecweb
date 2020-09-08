@@ -1,0 +1,29 @@
+body{
+    background: #93e5d1;
+}
+
+p.branco{
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.azul{
+    color: #0004ff;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p.vermelho{
+    color: #ff0000;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.verde{
+    color: #10811f;
+}
+
+h1,h2,h3{
+    color: #f1d8d8;
+}
